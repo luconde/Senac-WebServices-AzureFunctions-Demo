@@ -1,0 +1,6 @@
+{
+  "IsEncrypted": false,
+  "ConnectionStrings": {
+    "DefaultConnection": "<string de conexao MySQL>"
+  }
+}
